@@ -2,7 +2,7 @@
 import telebot
 from telebot import types
 
-token='5899203260:AAE8suqgzPZqsn3c4fjo-EOWQkghF9_qGns'
+
 bot=telebot.TeleBot(token)
 
 c=""
