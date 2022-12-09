@@ -3,7 +3,7 @@ from telebot import types
 import datetime
 from calc import *
 
-bot = telebot.TeleBot('5961055198:AAG3fA9n89y3_fwi1s0jDqjR1f9JbjkXpGs')
+bot = telebot.TeleBot('')
 
 def loger(message, res):
     dt = datetime.datetime.now()
