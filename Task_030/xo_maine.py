@@ -1,7 +1,7 @@
 import telebot
 from xo_game import *
 
-bot = telebot.TeleBot('5961055198:AAG3fA9n89y3_fwi1s0jDqjR1f9JbjkXpGs')
+bot = telebot.TeleBot('')
 
 turn = 1
 free_cell = [str(i) for i in range(1, 10)]
